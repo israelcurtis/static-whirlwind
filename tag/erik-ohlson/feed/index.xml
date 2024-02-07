@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/erik-ohlson/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Sun, 06 May 2018 20:41:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>WALTER Wins RESNA&#8217;s Student Design Competition</title>
+		<link>/walter-wins-resnas-student-design-competition/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 17:32:31 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Chalmers University of Technology]]></category>
+		<category><![CDATA[Christian Bremer]]></category>
+		<category><![CDATA[Erik Ohlson]]></category>
+		<category><![CDATA[first prize Industrial Design Engineering]]></category>
+		<category><![CDATA[Gothenburg Sweden]]></category>
+		<category><![CDATA[RESNA’s 2013 Student Design Competition]]></category>
+		<category><![CDATA[rigid frame]]></category>
+		<category><![CDATA[user centered]]></category>
+		<category><![CDATA[Walter]]></category>
+		<category><![CDATA[Wheelchair]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/walter-wins-resnas-student-design-competition/</guid>
+
+					<description><![CDATA[Christian Bremer and Erik Ohlson, Master’s students in Industrial Design Engineering at Chalmers University of Technology in Gothenburg Sweden, spent four weeks last fall in Whirlwind’s workshop at San Francisco State University with our technical team. As part of their Master’s thesis, Christian and Erik developed Walter &#8211; a rigid frame wheelchair for developing countries [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><img fetchpriority="high" decoding="async" class="wp-image-1114 alignright" src="http://216.172.184.37/~ab85381/wp-content/uploads/2013/07/WALTER-300x192.jpg" alt="WALTER" width="401" height="256" srcset="/wp-content/uploads/2013/07/WALTER-300x192.jpg 300w, /wp-content/uploads/2013/07/WALTER-768x493.jpg 768w, /wp-content/uploads/2013/07/WALTER-500x321.jpg 500w, /wp-content/uploads/2013/07/WALTER-1024x657.jpg 1024w, /wp-content/uploads/2013/07/WALTER-460x295.jpg 460w, /wp-content/uploads/2013/07/WALTER.jpg 1316w" sizes="(max-width: 401px) 100vw, 401px" />Christian Bremer and Erik Ohlson, Master’s students in Industrial Design Engineering at Chalmers University of Technology in Gothenburg Sweden, spent four weeks last fall in Whirlwind’s workshop at San Francisco State University with our technical team. As part of their Master’s thesis, Christian and Erik developed <em>Walter</em> &#8211; a rigid frame <em>wheelchair</em> for developing countries with the ability to <em>alter</em> the rider&#8217;s center of gravity while remaining seated in the chair. With two distinct seat positions, Walter offers riders three major advantages:</p>
+<ol>
+<li>Enables riders to climb steeper ramps and hills by shifting the seat to the front position and thereby the riders center of gravity;</li>
+<li>Facilitates transfers and allows riders to more easily approach a table when working, dining or just socializing with a more active (front) seating position; and</li>
+<li>Maintains optimal stability on rough uneven terrain with Walter’s bucket seat angle, low seat height and aft seat position.</li>
+</ol>
+<figure id="attachment_1116" aria-describedby="caption-attachment-1116" style="width: 235px" class="wp-caption alignleft"><a href="http://216.172.184.37/~ab85381/wp-content/uploads/2013/07/WALTER-RESNA.jpg"><img decoding="async" class="size-medium wp-image-1116" src="http://216.172.184.37/~ab85381/wp-content/uploads/2013/07/WALTER-RESNA-235x300.jpg" alt="Christian Bremer and Erik Ohlson with WALTER" width="235" height="300" srcset="/wp-content/uploads/2013/07/WALTER-RESNA-235x300.jpg 235w, /wp-content/uploads/2013/07/WALTER-RESNA.jpg 250w" sizes="(max-width: 235px) 100vw, 235px" /></a><figcaption id="caption-attachment-1116" class="wp-caption-text"><em>Christian Bremer and Erik Ohlson with WALTER</em></figcaption></figure>
+<p style="text-align: left;"><span class="full-image-float-right ssNonEditable"><span class="thumbnail-caption" style="width: 250px;">Christian Bremer and Erik Ohlson with WALTER</span></span>The development of Walter has included wheelchair expertise and collaboration with wheelchair riders on four continents: field studies in Kenya, prototyping at our workshop in San Francisco, field trials in Indonesia, and project finalization in Sweden. Well received among both users and assistive technology professionals, <em>Walter</em> won first prize overall in RESNA’s 2013 Student Design Competition. We congratulate Christian and Erik on their user-centered, participatory design approach and their achievement. Working with them was both a fruitful learning experience, and interesting glimpse into the future of wheelchair design. We look forward to seeing the future development of <em>Walter</em>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

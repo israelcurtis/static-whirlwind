@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/2012-newsletter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 22 Jun 2018 23:24:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Spring 2012 News Notes</title>
+		<link>/spring-2012-news-notes-2/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 23:43:39 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[2012 Newsletter]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/spring-2012-news-notes-2/</guid>
+
+					<description><![CDATA[In this issue: Bolivian Disabled Activists Fight for Rights Donate to Help the VA Help Veterans The RoughRider® Comes to the US! Expanding the Whirlwind Team 2010 RoughRider® Features ASME Student Project Download your copy of the 2012 Spring Newsnotes  .]]></description>
+										<content:encoded><![CDATA[<p><strong>In this issue:</strong></p>
+<ul>
+<li>Bolivian Disabled Activists Fight for Rights</li>
+<li>Donate to Help the VA Help Veterans</li>
+<li>The RoughRider® Comes to the US!</li>
+<li>Expanding the Whirlwind Team</li>
+<li>2010 RoughRider® Features</li>
+<li>ASME Student Project</li>
+<li><strong>Download</strong> your copy of the <a href="/wp-content/uploads/2015/06/NewsNotes-Spring-2012-for-Website.pdf">2012 Spring Newsnotes  <i class="fa fa-file-pdf-o " ></i>.</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

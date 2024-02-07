@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/national-design-museum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 22 Jun 2018 23:24:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Whirlwind 2011 Annual Newsletter</title>
+		<link>/whirlwind-2011-annual-newsletter-2/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2011 19:35:56 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[Assembly Centers]]></category>
+		<category><![CDATA[Awards]]></category>
+		<category><![CDATA[Buy One Give One]]></category>
+		<category><![CDATA[Coalition for Independent Living]]></category>
+		<category><![CDATA[Cooper-Hewitt]]></category>
+		<category><![CDATA[Disabled entrepreneurs]]></category>
+		<category><![CDATA[Dominican Re[ublic]]></category>
+		<category><![CDATA[expansion]]></category>
+		<category><![CDATA[Micro Enterprise]]></category>
+		<category><![CDATA[National Design Museum]]></category>
+		<category><![CDATA[Oakland]]></category>
+		<category><![CDATA[Schweitzer Award of Excellence]]></category>
+		<category><![CDATA[Sustainable Business]]></category>
+		<category><![CDATA[USAID Awards]]></category>
+		<category><![CDATA[Walkabout Fundraiser]]></category>
+		<category><![CDATA[Wheelchair Provision]]></category>
+		<category><![CDATA[World Institute on Disability]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/whirlwind-2011-annual-newsletter-2/</guid>
+
+					<description><![CDATA[In this issues you&#8217;ll find stories about progress in the Dominican Republic, Georgia, and across the world. This has been one of our best years yet in our efforts to serve wheelchair riders. Thanks again to all our donors and partners for the critical roles you play.  Please consider making a special holiday donation.  Extra [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In this issues you&#8217;ll find stories about progress in the Dominican Republic, Georgia, and across the world. This has been one of our best years yet in our efforts to serve wheelchair riders.</p>
+<p>Thanks again to all our donors and partners for the critical roles you play.  Please consider making a <a href="/donate/">special holiday donation</a>.  Extra funds are required in this period of rapid growth.  Thank you for doing what you can!</p>
+<p><a href="/wp-content/uploads/2015/06/WW-Newsletter-2011-LowRes.pdf">Download <strong>2011 Newsletter </strong>here  <i class="fa fa-file-pdf-o " ></i>.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

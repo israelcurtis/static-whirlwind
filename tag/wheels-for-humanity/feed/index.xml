@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/wheels-for-humanity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 17 Aug 2018 21:55:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Expanding the Whirlwind Team</title>
+		<link>/expanding-the-whirlwind-team/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 19:27:17 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Jakarta]]></category>
+		<category><![CDATA[Kids Chair]]></category>
+		<category><![CDATA[new markets]]></category>
+		<category><![CDATA[partnership]]></category>
+		<category><![CDATA[UCP]]></category>
+		<category><![CDATA[United Cerebral Palsy]]></category>
+		<category><![CDATA[Wheelchair]]></category>
+		<category><![CDATA[Wheels for Humanity]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/expanding-the-whirlwind-team/</guid>
+
+					<description><![CDATA[We have met some great people through our partnership with United Cerebral Palsy (UCP) Wheels for Humanity in Jogja, Indonesia and our manufacturing partnership with PT Dharma in Jakarta. Recently, Indriyanto and Maria (at right) joined the Whirlwind team to help with engineering and sales. Indriyanto’s background in large-scale manufacturing adds a unique body of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://216.172.184.37/~ab85381/wp-content/uploads/2012/04/Indry-and-Maria2-72dpi-rgb.jpg"><img decoding="async" class="alignright wp-image-990 size-full" src="/wp-content/uploads/2012/04/Indry-and-Maria2-72dpi-rgb.jpg" alt="Indry+and+Maria2+72dpi+rgb" width="127" height="144" /></a><br />
+We have met some great people through our partnership with United Cerebral Palsy (UCP) Wheels for Humanity in Jogja, Indonesia and our manufacturing partnership with PT Dharma in Jakarta. Recently, Indriyanto and Maria (at right) joined the Whirlwind team to help with engineering and sales. Indriyanto’s background in large-scale manufacturing adds a unique body of knowledge to Whirlwind&#8217;s technical team, whose experience is in small- to medium-scale shops. His expertise has already been a great help in delivering the quality we demand for our wheelchair users. Maria is helping Whirlwind find buyers in new markets and keeping orders on track.</p>
+<p class="BasicParagraph">Indriyanto and Maria (in picture of  the right) are setting up a UCP Kids chair during a wheelchair provision training by UCP.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

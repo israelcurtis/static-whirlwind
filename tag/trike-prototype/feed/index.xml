@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/trike-prototype/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 22 Jun 2018 23:20:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2013 Whirlwind Wheelchair Newsletter</title>
+		<link>/2013-whirlwind-wheelchair-newsletter/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Sat, 09 Feb 2013 23:56:55 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[Hand-Cycle Trike]]></category>
+		<category><![CDATA[Ironside]]></category>
+		<category><![CDATA[Lindy Point Trail]]></category>
+		<category><![CDATA[Trike Prototype]]></category>
+		<category><![CDATA[Will Power]]></category>
+		<category><![CDATA[WPAC]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/2013-newsletter/</guid>
+
+					<description><![CDATA[In this issue: Taking on the Lindy Point Trail Whirlwind Launches First Two WPACs Hand-Cycle Trike Prototype Ready to Ride Georgia Project Huge Success Will Power Ironside Download the 2013 Newsletter here .]]></description>
+										<content:encoded><![CDATA[<p><strong>In this issue:</strong></p>
+<ul>
+<li>Taking on the Lindy Point Trail</li>
+<li>Whirlwind Launches First Two WPACs</li>
+<li>Hand-Cycle Trike Prototype Ready to Ride</li>
+<li>Georgia Project Huge Success</li>
+<li>Will Power</li>
+<li>Ironside</li>
+<li><a href="/wp-content/uploads/2016/08/Whirlwind2013NewsletterWeb.pdf">Download the 2013 Newsletter here <i class="fa fa-file-pdf-o " ></i>.</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ASME Student Project</title>
+		<link>/asme-student-project/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 19:28:58 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Press Coverage]]></category>
+		<category><![CDATA[American Society of Mechanical Engineers]]></category>
+		<category><![CDATA[ASME Student Project]]></category>
+		<category><![CDATA[Craig Brinton]]></category>
+		<category><![CDATA[entrepreneurship project]]></category>
+		<category><![CDATA[Hand Powered-front wheel-drive-tricycle]]></category>
+		<category><![CDATA[Matt McCambidge]]></category>
+		<category><![CDATA[Nic Celeste]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Trike Prototype]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/asme-student-project/</guid>
+
+					<description><![CDATA[Members of San Francisco State’s Student Section of the American Society of Mechanical Engineers (ASME) are working with Whirlwind on building a hand-powered front-wheel-drive tricycle as a club project. The club has been responsible for welding, fabricating, and contributing to the iterative design process through testing. “The team of undergraduate students is learning valuable skills [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://216.172.184.37/~ab85381/wp-content/uploads/2012/04/Trike-Project-72dpi.jpg"><img decoding="async" class="alignright wp-image-978 size-full" src="/wp-content/uploads/2012/04/Trike-Project-72dpi.jpg" alt="Trike+Project+72dpi" width="150" height="144" srcset="/wp-content/uploads/2012/04/Trike-Project-72dpi.jpg 150w, /wp-content/uploads/2012/04/Trike-Project-72dpi-52x50.jpg 52w" sizes="(max-width: 150px) 100vw, 150px" /></a><br />
+Members of San Francisco State’s Student Section of the American Society of Mechanical Engineers (ASME) are working with Whirlwind on building a hand-powered front-wheel-drive tricycle as a club project. The club has been responsible for welding, fabricating, and contributing to the iterative design process through testing. “The team of undergraduate students is learning valuable skills to help their eventual careers in engineering,” says club president Nic Celeste, “while seeing first-hand how engineering and design can help make the world a better place for those with limited mobility.” The ASME Trike Project is overseen by Whirlwind product designer Aaron Wieler. It is one of several engineering and entrepreneurship projects that we are currently working on with students at San Francisco State, where our headquarters and shop are located.</p>
+<p class="BasicParagraph">Matt McCambridge (in picture on the left), Whirlwind’s Product Development Manager, works with mechanical engineering students Craig Brinton and Nic Celeste on an innovative trike prototype.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

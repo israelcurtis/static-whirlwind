@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/whirlwind-redesign/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 17 Aug 2018 20:52:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>The Zimbabwe Wheel</title>
+		<link>/the-zimbabwe-wheel/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Mon, 18 Jul 2011 18:41:38 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Durable]]></category>
+		<category><![CDATA[Lightweight]]></category>
+		<category><![CDATA[Shock Absorbtion]]></category>
+		<category><![CDATA[Wheel]]></category>
+		<category><![CDATA[Whirlwind Redesign]]></category>
+		<category><![CDATA[Zimbabwe]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/?p=829</guid>
+
+					<description><![CDATA[In 1988, Co-Founder Ralf Hotchkiss was in a bustling Zimbabwe outdoor market when two boys caught his attention. The two boys were pushing a two-wheeled cart whose wheels were unlike any wheels Ralf had ever seen before.  The wheels were extremely wide and flexible, allowing easy movement over the most uneven of roads. Originally, the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="p1">In 1988, Co-Founder Ralf Hotchkiss was in a bustling Zimbabwe outdoor market when two boys caught his attention. The two boys were pushing a two-wheeled cart whose wheels were unlike any wheels Ralf had ever seen before.  The wheels were extremely wide and flexible, allowing easy movement over the most uneven of roads.</p>
+<p>Originally, the Zimbabwe wheel was manufactured with a large steel inner wheel wrapped in flexible rubber.  Whirlwind redesigned it to be made entirely of rubber, molded over a common bicycle hub, to provide better shock absorption.  Because the hub of the Whirlwind Zimbabwe Wheel uses bicycle bearings, it can be easily repaired throughout the developing world.</p>
+<p class="p2">Now, after many trials and testings, the Zimbabwe wheel has become an easily repairable, lightweight and durable castor wheel unlike any other on the market.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

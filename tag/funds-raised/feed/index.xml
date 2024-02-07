@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/funds-raised/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Mon, 07 Nov 2022 03:34:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Sri Lestari Is Off to TEDx Ubud</title>
+		<link>/sri-lestari-is-off-to-tedx-ubud/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Wed, 08 May 2013 16:45:35 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Bali]]></category>
+		<category><![CDATA[funds raised]]></category>
+		<category><![CDATA[Jakarta]]></category>
+		<category><![CDATA[modified]]></category>
+		<category><![CDATA[motorbike]]></category>
+		<category><![CDATA[Sri Lestari]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/sri-lestari-is-off-to-tedx-ubud/</guid>
+
+					<description><![CDATA[&#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><iframe src="http://www.indiegogo.com/project/365537/widget" width="224px" height="486px" frameborder="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

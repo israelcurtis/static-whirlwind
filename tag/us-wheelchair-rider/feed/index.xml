@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/us-wheelchair-rider/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Tue, 13 Mar 2018 19:35:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>“I feel so much freedom, I love it!”</title>
+		<link>/i-feel-so-much-freedom-i-love-it/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2012 21:25:15 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Press Coverage]]></category>
+		<category><![CDATA[Brian]]></category>
+		<category><![CDATA[RoughRider]]></category>
+		<category><![CDATA[US WheelChair Rider]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/i-feel-so-much-freedom-i-love-it/</guid>
+
+					<description><![CDATA[Meet Brian, one of Whirlwind Wheelchair’s first US customers.  Living in San Francisco, hear why Brian loves his RoughRider.]]></description>
+										<content:encoded><![CDATA[<p>Meet Brian, one of Whirlwind Wheelchair’s first US customers.  Living in San Francisco, hear why Brian loves his RoughRider.</p>
+<p><iframe src="https://www.youtube.com/embed/tw1V2VEXEAk?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

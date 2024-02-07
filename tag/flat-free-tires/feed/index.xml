@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/flat-free-tires/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 17 Aug 2018 20:48:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Ralf Testing Tire</title>
+		<link>/ralf-in-nicaragua/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2011 22:28:34 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Chinandega]]></category>
+		<category><![CDATA[Flat Free Tires]]></category>
+		<category><![CDATA[Nicaragua]]></category>
+		<category><![CDATA[RoughRider]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Tire]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/ralf-in-nicaragua/</guid>
+
+					<description><![CDATA[Whirlwind Founder and Chief Engineer Ralf Hotchkiss spent most of the summer in Chinandega, Nicaragua working on, among other things, the “thorny” issue of flat-free tires. Above is a photo of Ralf at work. When traveling, Ralf rides a standard RoughRider off the assembly line and interacts with a diverse group of people with disabilities [&#8230;]]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_1003" aria-describedby="caption-attachment-1003" style="width: 260px" class="wp-caption alignright"><a href="http://216.172.184.37/~ab85381/wp-content/uploads/2011/11/Ralf_testing_tire_sm.jpg"><img decoding="async" class="size-full wp-image-1003" src="http://216.172.184.37/~ab85381/wp-content/uploads/2011/11/Ralf_testing_tire_sm.jpg" alt="Ralf testing tire." width="260" height="173" /></a><figcaption id="caption-attachment-1003" class="wp-caption-text"><strong> Ralf testing tire.</strong></figcaption></figure>
+<p>Whirlwind Founder and Chief Engineer Ralf Hotchkiss spent most of the summer in Chinandega, Nicaragua working on, among other things, the “thorny” issue of flat-free tires. Above is a photo of Ralf at work. When traveling, Ralf rides a standard RoughRider off the assembly line and interacts with a diverse group of people with disabilities who trust him well enough to give brutally honest product feedback they might hesitate to share with a foreign donor. By spending at least a quarter of each year in the developing world, Ralf helps ensure that Whirlwind’s designs always meet the real needs of developing world riders.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

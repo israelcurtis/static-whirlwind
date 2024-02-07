@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/bogo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 17 Aug 2018 21:55:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>The RoughRider Comes to the US!</title>
+		<link>/the-roughrider-comes-to-the-us/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 19:24:54 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[BOGO]]></category>
+		<category><![CDATA[Buy One Give One]]></category>
+		<category><![CDATA[RoughRider]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/the-roughrider-comes-to-the-us/</guid>
+
+					<description><![CDATA[Experience the outdoors like never before Whirlwind is now taking advance orders for the RoughRider on our Buy One Give One (BOGO) program. Hundreds of wheelchair riders who have contacted us are excited about where they’ll go in their own RoughRiders. The RoughRider was designed to handle rough outdoor conditions like the broken up sidewalks [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="BasicParagraph"><strong><em>Experience the outdoors like never before</em></strong></p>
+<p class="BasicParagraph">Whirlwind is now taking advance orders for the RoughRider on our Buy One Give One (BOGO) program. Hundreds of wheelchair riders who have contacted us are excited about where they’ll go in their own RoughRiders.</p>
+<p class="BasicParagraph">The RoughRider was designed to handle rough outdoor conditions like the broken up sidewalks and dirt paths commonly found in the developing world. Its long wheelbase makes it ultra-stable on uneven ground, making the RoughRider great for touring National Parks or for weekend excursions. <a href="/roughriderfun/">Watch videos of people out having fun in their RoughRiders in the San Francisco Bay Area.</a></p>
+<p class="BasicParagraph"><strong><span style="color: #ff4c00;"> <span class="full-image-float-left ssNonEditable"><img decoding="async" src="http://whirlwindwheelchair.squarespace.com/storage/2011%20RR%2072dpi%20rgb.jpg?__SQUARESPACE_CACHEVERSION=1334873539222" alt="" /></span> </span></strong>&#8220;I looked up through the treetops and realized that I was by myself for the very first time, exploring a forest without fear that I would become trapped or that I would fall over on the uneven ground!&#8221;</p>
+<p class="BasicParagraph">–Bruce Curtis, Manual Wheelchair User for 45+ years.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

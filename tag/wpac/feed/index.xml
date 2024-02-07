@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/wpac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 22 Jun 2018 23:20:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Summer 2014 NewsNotes</title>
+		<link>/summer-2014-newsnotes/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 09 May 2014 23:58:16 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[Grant]]></category>
+		<category><![CDATA[RoughRider]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<category><![CDATA[WPAC]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/?p=501</guid>
+
+					<description><![CDATA[&#160; In this issue: Whirlwind Leaves SF State Science Building Closure RoughRider Fan Mail WPAC Grant Updates Project Homeless Connect Download the 2014 Summer News Notes here .]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>In this issue:</p>
+<ul>
+<li>Whirlwind Leaves SF State</li>
+<li>Science Building Closure</li>
+<li>RoughRider Fan Mail</li>
+<li>WPAC Grant Updates</li>
+<li>Project Homeless Connect</li>
+<li><a href="/wp-content/uploads/2015/06/NewsNotes-Summer-2014.pdf">Download the 2014 Summer News Notes here <i class="fa fa-file-pdf-o " ></i>.</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2014 Whirlwind Wheelchair Newsletter</title>
+		<link>/2014-whirlwind-wheelchair-newsletter/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 23:56:13 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<category><![CDATA[WPAC]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/?p=497</guid>
+
+					<description><![CDATA[In this issue: Whirlwind moves to Berkeley Introducing RoughRider America Ebola Halts WPAC in Sierra Leone Hand Cycles and RoughRiders in Ethiopia 25th Anniversary of the ADA Download the 2014 Newsletter here .]]></description>
+										<content:encoded><![CDATA[<div class="mceTemp">In this issue:</div>
+<ul>
+<li>Whirlwind moves to Berkeley</li>
+<li>Introducing RoughRider America</li>
+<li>Ebola Halts WPAC in Sierra Leone</li>
+<li>Hand Cycles and RoughRiders in Ethiopia</li>
+<li>25th Anniversary of the ADA</li>
+<li><a href="/wp-content/uploads/2015/06/WW-Newsletter-2014-Web.pdf"><strong>Download the 2014 Newsletter here <i class="fa fa-file-pdf-o " ></i>.</strong></a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2013 Whirlwind Wheelchair Newsletter</title>
+		<link>/2013-whirlwind-wheelchair-newsletter/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Sat, 09 Feb 2013 23:56:55 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[Hand-Cycle Trike]]></category>
+		<category><![CDATA[Ironside]]></category>
+		<category><![CDATA[Lindy Point Trail]]></category>
+		<category><![CDATA[Trike Prototype]]></category>
+		<category><![CDATA[Will Power]]></category>
+		<category><![CDATA[WPAC]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/2013-newsletter/</guid>
+
+					<description><![CDATA[In this issue: Taking on the Lindy Point Trail Whirlwind Launches First Two WPACs Hand-Cycle Trike Prototype Ready to Ride Georgia Project Huge Success Will Power Ironside Download the 2013 Newsletter here .]]></description>
+										<content:encoded><![CDATA[<p><strong>In this issue:</strong></p>
+<ul>
+<li>Taking on the Lindy Point Trail</li>
+<li>Whirlwind Launches First Two WPACs</li>
+<li>Hand-Cycle Trike Prototype Ready to Ride</li>
+<li>Georgia Project Huge Success</li>
+<li>Will Power</li>
+<li>Ironside</li>
+<li><a href="/wp-content/uploads/2016/08/Whirlwind2013NewsletterWeb.pdf">Download the 2013 Newsletter here <i class="fa fa-file-pdf-o " ></i>.</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

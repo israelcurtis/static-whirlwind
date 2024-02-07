@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/afghanistan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Sat, 02 Jun 2018 10:25:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Whirlwind Wheelchair Project with CIR in Afghanistan</title>
+		<link>/whirlwind-wheelchair-project-with-cir-in-afghanistan/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Wed, 15 Jun 2005 18:22:00 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Afghanistan]]></category>
+		<category><![CDATA[Center for International Rehabilitation]]></category>
+		<category><![CDATA[Disability]]></category>
+		<category><![CDATA[distribution strategy]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Kabul]]></category>
+		<category><![CDATA[Kabul Orthopedic Organization]]></category>
+		<category><![CDATA[social enterprise]]></category>
+		<category><![CDATA[Training of the Handicapped Trust]]></category>
+		<category><![CDATA[wheelchair kits]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[Workshop for Rehabilitation]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/whirlwind-wheelchair-project-with-cir-in-afghanistan/</guid>
+
+					<description><![CDATA[Whirlwind and the Center for International Rehabilitation conducted a six-day training workshop in Kabul, Afghanistan, in June 2005 that focused on skills such as wheelchair assembly and repair, fitting and user assessment. The goal of this project was to test a distribution strategy that combined central fabrication with local assembly, fitting and delivery. During the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Whirlwind and the Center for International Rehabilitation conducted a six-day training workshop in Kabul, Afghanistan, in June 2005 that focused on skills such as wheelchair assembly and repair, fitting and user assessment. The goal of this project was to test a distribution strategy that combined central fabrication with local assembly, fitting and delivery. During the initial phase, wheelchair kits were manufactured by Workshop for Rehabilitation and Training of the Handicapped Trust (or WORTH Trust, a social enterprise with the goal of employing people with disabilities), in a regional facility in Katpadi, India. The kits were then delivered to Afghanistan, where they were assembled, distributed and maintained through the cooperation of a local nongovernmental organization, the Kabul Orthopedic Organization.</p>
+<p><iframe src="https://www.youtube.com/embed/Nog5sYtHvjI?rel=0&amp;controls=0&amp;showinfo=0" width="100%" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Transcription for this video: <a href="/wp-content/uploads/2018/05/Whirlwind-Wheelchair-Project-with-CIR-in-Afghanistan.pdf"><i class="fa fa-download " ></i> Whirlwind Wheelchair Project with CIR in Afghanistan</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

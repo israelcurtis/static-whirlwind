@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/spanish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Tue, 01 Jun 2021 22:52:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Video Silla De Ruedas Totem</title>
+		<link>/video-silla-de-ruedas-totem/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 15 May 2015 22:18:02 +0000</pubDate>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[All-Terrain]]></category>
+		<category><![CDATA[RoughRider]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Spanish]]></category>
+		<category><![CDATA[Totem]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[Video Silla De Ruedas Totem]]></category>
+		<category><![CDATA[Wheelchairs]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/?p=339</guid>
+
+					<description><![CDATA[This is a Spanish language video made in Columbia, South America, showing the Whirlwind RoughRider, known there as the TOTEM (Todo Tereno Movilidad). The riders in this video are very experienced and have exceptional control of their wheelchairs. Whirlwind does not recommend reckless driving!]]></description>
+										<content:encoded><![CDATA[
+<p>This is a Spanish language video made in Columbia, South America, showing the Whirlwind RoughRider, known there as the TOTEM (Todo Tereno Movilidad). The riders in this video are very experienced and have exceptional control of their wheelchairs. Whirlwind does not recommend reckless driving!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Silla de ruedas todo terreno" width="500" height="375" src="https://www.youtube.com/embed/FvqLfDpIVus?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

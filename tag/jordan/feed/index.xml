@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whirlwind Wheelchair</title>
+	<atom:link href="/tag/jordan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A non-profit social enterprise dedicated to improving the lives of people with disabilities in the developing world while also promoting sustainable local economic development</description>
+	<lastBuildDate>Fri, 22 Jun 2018 23:30:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2008 Summer Newsnotes</title>
+		<link>/2008-summer-newsnotes-2/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Sun, 01 Jun 2008 21:33:00 +0000</pubDate>
+				<category><![CDATA[Newsletter]]></category>
+		<category><![CDATA[Double Drum Tester]]></category>
+		<category><![CDATA[Franchise Netork]]></category>
+		<category><![CDATA[Investing]]></category>
+		<category><![CDATA[Jordan]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Whirlwind]]></category>
+		<guid isPermaLink="false">http://www.websitesbycreation.com/whirlwind/2008-summer-newsnotes-2/</guid>
+
+					<description><![CDATA[In this issue: The Whirlwind Franchise Network A Training in Jordan Whirlwind Gets a Double Drum Tester Investing In Whirlwind Download the 2008 Summer Notes here .]]></description>
+										<content:encoded><![CDATA[<p><strong>In this issue:</strong></p>
+<ul>
+<li>The Whirlwind Franchise Network</li>
+<li>A Training in Jordan</li>
+<li>Whirlwind Gets a Double Drum Tester</li>
+<li>Investing In Whirlwind</li>
+<li><a href="/wp-content/uploads/2015/06/2008_summer_newsnotes_low-res.pdf"><strong>Download the 2008 Summer Notes here <i class="fa fa-file-pdf-o " ></i>.</strong></a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
