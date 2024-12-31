@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>2018 Annual Newsletter</title>
 		<link>/2018-annual-newsletter/</link>
 		
 		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
 		<pubDate>Fri, 30 Nov 2018 01:18:36 +0000</pubDate>
-				<category><![CDATA[Newsletter]]></category>
+				<category><![CDATA[Newsletters]]></category>
 		<category><![CDATA[Arizona-Sonora]]></category>
 		<category><![CDATA[China]]></category>
 		<category><![CDATA[Morocco]]></category>
@@ -58,7 +58,7 @@ Procurement Policy in Morocco</li>
 		
 		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
 		<pubDate>Tue, 28 Nov 2017 20:38:15 +0000</pubDate>
-				<category><![CDATA[Newsletter]]></category>
+				<category><![CDATA[Newsletters]]></category>
 		<category><![CDATA[Arizona-Sonora]]></category>
 		<category><![CDATA[China]]></category>
 		<category><![CDATA[Morocco]]></category>

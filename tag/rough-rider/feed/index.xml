@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Keep Your RoughRider® Well Maintained</title>
 		<link>/keep-your-roughrider-well-maintained/</link>
@@ -68,7 +68,7 @@
 		
 		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
 		<pubDate>Wed, 19 Dec 2012 00:01:25 +0000</pubDate>
-				<category><![CDATA[Newsletter]]></category>
+				<category><![CDATA[Newsletters]]></category>
 		<category><![CDATA[Rough Rider]]></category>
 		<category><![CDATA[Trike]]></category>
 		<category><![CDATA[Whirlwind]]></category>

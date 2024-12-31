@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>2016 Annual Newsletter</title>
 		<link>/2016-annual-newsletter/</link>
 		
 		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
 		<pubDate>Wed, 23 Nov 2016 21:08:24 +0000</pubDate>
-				<category><![CDATA[Newsletter]]></category>
+				<category><![CDATA[Newsletters]]></category>
 		<category><![CDATA[Colombia]]></category>
 		<category><![CDATA[Homeless]]></category>
 		<category><![CDATA[Humanitarian Assistance]]></category>
