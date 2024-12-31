@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/israelcu/public_html/static/whirlwindwheelchair.org
+    - /bin/cp -R * $DEPLOYPATH
+  exclude:
+      - .git
+      - .gitignore
+      - README.md
+      - CNAME
