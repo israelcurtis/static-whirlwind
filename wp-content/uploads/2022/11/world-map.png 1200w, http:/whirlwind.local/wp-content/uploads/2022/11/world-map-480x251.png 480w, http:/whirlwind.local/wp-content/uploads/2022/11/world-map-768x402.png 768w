@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/uploads/2022/11/world-map.png%201200w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-480x251.png%20480w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-768x402.png%20768w">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/uploads/2022/11/world-map.png%201200w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-480x251.png%20480w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-768x402.png%20768w";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-content/uploads/2022/11/world-map.png%201200w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-480x251.png%20480w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-768x402.png%20768w">/wp-content/uploads/2022/11/world-map.png%201200w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-480x251.png%20480w,%20http:/whirlwind.local/wp-content/uploads/2022/11/world-map-768x402.png%20768w</a></p>
+	</body>
+</html>
